@@ -38,3 +38,4 @@ Everything about Matplotlib
 ## Text<br>
 <a href="https://matplotlib.org/3.3.3/tutorials/text/text_intro.html#sphx-glr-tutorials-text-text-intro-py"></a>Text in Matplotlib Plots<br>
 <a href="https://matplotlib.org/3.3.3/tutorials/text/text_props.html#sphx-glr-tutorials-text-text-props-py">Text properties and layout</a><br>
+<a href="https://matplotlib.org/3.3.3/tutorials/text/annotations.html#id22">Annotations</a><br>
