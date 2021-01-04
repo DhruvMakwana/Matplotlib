@@ -9,3 +9,6 @@ Reference:<br>
 <a href="https://matplotlib.org/3.3.3/tutorials/introductory/images.html#sphx-glr-tutorials-introductory-images-py">Image tutorials</a><br>
 <a href="https://matplotlib.org/3.3.3/tutorials/introductory/lifecycle.html#sphx-glr-tutorials-introductory-lifecycle-py">The Lifecycle of a Plot</a><br>
 <a href="https://matplotlib.org/3.3.3/tutorials/introductory/customizing.html#sphx-glr-tutorials-introductory-customizing-py">Customizing Matplotlib with style sheets and rcParams</a><br>
+
+## Intermediate<br>
+<a href="https://matplotlib.org/3.3.3/tutorials/intermediate/artists.html#sphx-glr-tutorials-intermediate-artists-py">Artist tutorial</a><br>
