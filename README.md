@@ -47,3 +47,9 @@ Everything about Matplotlib
 <a href="https://matplotlib.org/3.3.3/tutorials/toolkits/axes_grid.html#sphx-glr-tutorials-toolkits-axes-grid-py">Overview of axes_grid1 toolkit</a><br>
 <a href="https://matplotlib.org/3.3.3/tutorials/toolkits/axisartist.html#sphx-glr-tutorials-toolkits-axisartist-py">Overview of axisartist toolkit</a><br>
 <a href="https://matplotlib.org/3.3.3/tutorials/toolkits/mplot3d.html#sphx-glr-tutorials-toolkits-mplot3d-py">The mplot3d Toolkit</a><br>
+
+
+<a href="https://matplotlib.org/3.3.3/_downloads/852c09bc4a9ebe1ae444750e1f5d1ecb/tutorials_python.zip"></a>
+[<img src="https://image.flaticon.com/icons/png/512/60/60721.png" width="25"/>](https://matplotlib.org/3.3.3/_downloads/852c09bc4a9ebe1ae444750e1f5d1ecb/tutorials_python.zip) `Download all examples in Python source code: tutorials_python.zip` <br>
+[<img src="https://image.flaticon.com/icons/png/512/60/60721.png" width="25"/>](https://matplotlib.org/3.3.3/_downloads/4b685b8b6cb908aa2b453a785259056a/tutorials_jupyter.zip) `Download all examples in Jupyter notebooks: tutorials_jupyter.zip` <br>
+
