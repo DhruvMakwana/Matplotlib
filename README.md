@@ -14,3 +14,4 @@ Everything about Matplotlib
 <a href="https://matplotlib.org/3.3.3/tutorials/intermediate/artists.html#sphx-glr-tutorials-intermediate-artists-py">Artist tutorial</a><br>
 <a href="https://matplotlib.org/3.3.3/tutorials/intermediate/legend_guide.html#sphx-glr-tutorials-intermediate-legend-guide-py">Legend guide</a><br>
 <a href="https://matplotlib.org/3.3.3/tutorials/intermediate/color_cycle.html#sphx-glr-tutorials-intermediate-color-cycle-py">Styling with cycler</a><br>
+<a href="https://matplotlib.org/3.3.3/tutorials/intermediate/gridspec.html#sphx-glr-tutorials-intermediate-gridspec-py">Customizing Figure Layouts Using GridSpec and Other Functions</a><br>
