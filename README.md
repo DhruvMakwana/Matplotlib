@@ -29,3 +29,4 @@ Everything about Matplotlib
 <a href="https://matplotlib.org/3.3.3/tutorials/colors/colors.html#sphx-glr-tutorials-colors-colors-py">Specifying Colors</a><br>
 <a href="https://matplotlib.org/3.3.3/tutorials/colors/colorbar_only.html#sphx-glr-tutorials-colors-colorbar-only-py">Customized Colorbars Tutorial</a><br>
 <a href="https://matplotlib.org/3.3.3/tutorials/colors/colormap-manipulation.html#sphx-glr-tutorials-colors-colormap-manipulation-py">Creating Colormaps in Matplotlib</a><br>
+<a href="https://matplotlib.org/3.3.3/tutorials/colors/colormapnorms.html#sphx-glr-tutorials-colors-colormapnorms-py">Colormap Normalization</a><br>
