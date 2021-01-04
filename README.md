@@ -21,3 +21,4 @@ Everything about Matplotlib
 
 ## Advanced<br>
 <a href="https://matplotlib.org/3.3.3/tutorials/advanced/blitting.html#sphx-glr-tutorials-advanced-blitting-py">Blitting tutorial</a><br>
+<a href="https://matplotlib.org/3.3.3/tutorials/advanced/path_tutorial.html#sphx-glr-tutorials-advanced-path-tutorial-py">Path Tutorial</a><br>
