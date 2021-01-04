@@ -42,3 +42,6 @@ Everything about Matplotlib
 <a href="https://matplotlib.org/3.3.3/tutorials/text/mathtext.html#sphx-glr-tutorials-text-mathtext-py">Writing mathematical expressions</a><br>
 <a href="https://matplotlib.org/3.3.3/tutorials/text/pgf.html#sphx-glr-tutorials-text-pgf-py">Typesetting With XeLaTeX/LuaLaTeX</a><br>
 <a href="https://matplotlib.org/3.3.3/tutorials/text/usetex.html#sphx-glr-tutorials-text-usetex-py">Text rendering With LaTeX</a><br>
+
+## Toolkits<br>
+<a href="https://matplotlib.org/3.3.3/tutorials/toolkits/axes_grid.html#sphx-glr-tutorials-toolkits-axes-grid-py">Overview of axes_grid1 toolkit</a><br>
