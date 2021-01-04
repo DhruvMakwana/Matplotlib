@@ -34,3 +34,6 @@ Everything about Matplotlib
 
 ## Provisional<br>
 <a href="https://matplotlib.org/3.3.3/tutorials/provisional/mosaic.html#sphx-glr-tutorials-provisional-mosaic-py">Complex and semantic figure composition</a><br>
+
+## Text<br>
+<a href="https://matplotlib.org/3.3.3/tutorials/text/text_intro.html#sphx-glr-tutorials-text-text-intro-py"></a>Text in Matplotlib Plots<br>
