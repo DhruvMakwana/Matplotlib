@@ -24,3 +24,6 @@ Everything about Matplotlib
 <a href="https://matplotlib.org/3.3.3/tutorials/advanced/path_tutorial.html#sphx-glr-tutorials-advanced-path-tutorial-py">Path Tutorial</a><br>
 <a href="https://matplotlib.org/3.3.3/tutorials/advanced/patheffects_guide.html#sphx-glr-tutorials-advanced-patheffects-guide-py">Path effects guide</a><br>
 <a href="https://matplotlib.org/3.3.3/tutorials/advanced/transforms_tutorial.html#sphx-glr-tutorials-advanced-transforms-tutorial-py">Transformations Tutorial</a><br>
+
+## Colors<br>
+<a href="https://matplotlib.org/3.3.3/tutorials/colors/colors.html#sphx-glr-tutorials-colors-colors-py">Specifying Colors</a><br>
