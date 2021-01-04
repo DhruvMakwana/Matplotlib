@@ -40,3 +40,4 @@ Everything about Matplotlib
 <a href="https://matplotlib.org/3.3.3/tutorials/text/text_props.html#sphx-glr-tutorials-text-text-props-py">Text properties and layout</a><br>
 <a href="https://matplotlib.org/3.3.3/tutorials/text/annotations.html#id22">Annotations</a><br>
 <a href="https://matplotlib.org/3.3.3/tutorials/text/mathtext.html#sphx-glr-tutorials-text-mathtext-py">Writing mathematical expressions</a><br>
+<a href="https://matplotlib.org/3.3.3/tutorials/text/pgf.html#sphx-glr-tutorials-text-pgf-py">Typesetting With XeLaTeX/LuaLaTeX</a><br>
