@@ -12,3 +12,4 @@ Reference:<br>
 
 ## Intermediate<br>
 <a href="https://matplotlib.org/3.3.3/tutorials/intermediate/artists.html#sphx-glr-tutorials-intermediate-artists-py">Artist tutorial</a><br>
+<a href="https://matplotlib.org/3.3.3/tutorials/intermediate/legend_guide.html#sphx-glr-tutorials-intermediate-legend-guide-py">Legend guide</a><br>
