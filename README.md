@@ -31,3 +31,6 @@ Everything about Matplotlib
 <a href="https://matplotlib.org/3.3.3/tutorials/colors/colormap-manipulation.html#sphx-glr-tutorials-colors-colormap-manipulation-py">Creating Colormaps in Matplotlib</a><br>
 <a href="https://matplotlib.org/3.3.3/tutorials/colors/colormapnorms.html#sphx-glr-tutorials-colors-colormapnorms-py">Colormap Normalization</a><br>
 <a href="https://matplotlib.org/3.3.3/tutorials/colors/colormaps.html#sphx-glr-tutorials-colors-colormaps-py">Choosing Colormaps in Matplotlib</a><br>
+
+## Provisional<br>
+<a href="https://matplotlib.org/3.3.3/tutorials/provisional/mosaic.html#sphx-glr-tutorials-provisional-mosaic-py">Complex and semantic figure composition</a><br>
